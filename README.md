@@ -16,4 +16,4 @@ The app allows the user to get his current location, select the POI, and choose 
              Once you have your API key (it starts with "AIza"), define a new property in your
              project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
              "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
-4.Run Your the application.            
+4.Run the application.            
